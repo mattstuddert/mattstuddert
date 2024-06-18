@@ -1,4 +1,4 @@
-## Hey, I'm Matt, the founder of [Frontend Mentor](https://www.frontendmentor.io/)
+## Hey, I'm Matt, the founder of [Frontend Mentor](https://www.frontendmentor.io/) 👋
 
 We help people hone their coding skills by providing professionally designed projects to build, and a community to get support and receive feedback from others.
 
